@@ -1,0 +1,2 @@
+/home/jao/CMake/cmake02/build/bin/CMakeFiles/hello.dir
+/home/jao/CMake/cmake02/build/bin/CMakeFiles/hello_static.dir

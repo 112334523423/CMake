@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_xlog.dir/test_xlog.cpp.o -o test_xlog   -L/home/jao/CMake/cmake_lib/test_xlog/../xlog/build  -Wl,-rpath,/home/jao/CMake/cmake_lib/test_xlog/../xlog/build -lxlog 

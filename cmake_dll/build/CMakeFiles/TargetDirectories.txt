@@ -1,0 +1,4 @@
+/home/jao/CMake/cmake_dll/build/CMakeFiles/xlog.dir
+/home/jao/CMake/cmake_dll/build/CMakeFiles/test_xlog.dir
+/home/jao/CMake/cmake_dll/build/CMakeFiles/edit_cache.dir
+/home/jao/CMake/cmake_dll/build/CMakeFiles/rebuild_cache.dir
